@@ -29,4 +29,4 @@ Formation *GIT*
 
 ---
 
-[lien][http://google.fr]
+[lien](http://google.fr)
